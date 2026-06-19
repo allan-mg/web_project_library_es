@@ -1,9 +1,38 @@
-# Proyecto 3: Biblioteca Triple Peaks
+# Biblioteca Triple Peaks
 
-La página web de la Biblioteca Triple Peaks es el tercer proyecto en el programa de Desarrollo web de TripleTen. Fue creado utilizando HTML y CSS, con base en un brief de diseño.
+Página web para la Biblioteca Triple Peaks, desarrollada como parte de mi formación en Desarrollo Web en TripleTen. El proyecto está enfocado en la práctica de HTML semántico, CSS, Flexbox y posicionamiento.
+
+## Descripción del proyecto
+
+El objetivo de este proyecto fue construir una página web informativa para una biblioteca, siguiendo un brief de diseño y aplicando buenas prácticas de estructura y maquetación.
+
+Durante el desarrollo trabajé con diferentes secciones de contenido, jerarquía visual, estilos CSS y organización de elementos en pantalla.
 
 ## Características del proyecto
 
-- HTML5 semántico
-- Flexbox
-- Posicionamiento
+* Estructura con HTML5 semántico.
+* Maquetación con CSS.
+* Uso de Flexbox.
+* Posicionamiento de elementos.
+* Organización visual por secciones.
+* Desarrollo basado en un brief de diseño.
+
+## Tecnologías utilizadas
+
+* HTML5
+* CSS3
+* Flexbox
+* Posicionamiento CSS
+* Git
+* GitHub
+
+## Aprendizaje
+
+Este proyecto me ayudó a reforzar bases importantes de HTML y CSS, especialmente en estructura semántica, organización visual y presentación de contenido.
+
+También fue útil para practicar Flexbox, posicionamiento y control de versiones con Git y GitHub.
+
+## Enlaces
+
+* Demo en vivo: PENDIENTE
+* Repositorio: https://github.com/allan-mg/web_project_library_es
