@@ -34,5 +34,5 @@ También fue útil para practicar Flexbox, posicionamiento y control de versione
 
 ## Enlaces
 
-* Demo en vivo: PENDIENTE
+* Demo en vivo: https://allan-mg.github.io/web_project_library_es/
 * Repositorio: https://github.com/allan-mg/web_project_library_es
