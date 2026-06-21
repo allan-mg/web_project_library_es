@@ -33,12 +33,11 @@
 }
 
 .nav__links {
-  display: flex;
-  flex-direction: row;
-  column-gap: 20px;
-  margin: 8px 0 0;
-  list-style: none;
+  list-style-type: none;
   padding: 0;
+  margin: 8px 0 0;
+  display: flex;
+  column-gap: 20px;
 }
 
 .nav__link {
@@ -62,6 +61,7 @@
 }
 
 .header__description {
+  margin: 0;
   font-size: 20px;
   line-height: 30px;
   max-width: 515px;
@@ -94,6 +94,9 @@
 /* ESTILOS STAFF */
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding: 100px 0 140px;
 }
 
@@ -157,7 +160,8 @@
 }
 
 .card__footer {
-  margin: auto 0;
+  margin: 0;
+  margin-top: auto;
   font-size: 14px;
   line-height: 20px;
   color: #838383;
@@ -356,12 +360,15 @@
 
 .footer__columns {
   display: flex;
-  justify-content: space-between;
   align-items: flex-start;
   gap: 80px;
 }
 
 .footer__column {
+  margin: 0;
+}
+
+.footer__column_content_logo {
   margin-right: auto;
 }
 
@@ -393,8 +400,6 @@
   margin: 0 0 16px;
   font-size: 16px;
   line-height: 20px;
-  display: flex;
-  gap: 10px;
 }
 
 .footer__column-link {

@@ -10,21 +10,21 @@ Durante el desarrollo trabajé con diferentes secciones de contenido, jerarquía
 
 ## Características del proyecto
 
-* Estructura con HTML5 semántico.
-* Maquetación con CSS.
-* Uso de Flexbox.
-* Posicionamiento de elementos.
-* Organización visual por secciones.
-* Desarrollo basado en un brief de diseño.
+- Estructura con HTML5 semántico.
+- Maquetación con CSS.
+- Uso de Flexbox.
+- Posicionamiento de elementos.
+- Organización visual por secciones.
+- Desarrollo basado en un brief de diseño.
 
 ## Tecnologías utilizadas
 
-* HTML5
-* CSS3
-* Flexbox
-* Posicionamiento CSS
-* Git
-* GitHub
+- HTML5
+- CSS3
+- Flexbox
+- Posicionamiento CSS
+- Git
+- GitHub
 
 ## Aprendizaje
 
@@ -32,7 +32,11 @@ Este proyecto me ayudó a reforzar bases importantes de HTML y CSS, especialment
 
 También fue útil para practicar Flexbox, posicionamiento y control de versiones con Git y GitHub.
 
+## Demo de funcionamiento
+
+![Demo del proyecto](./images/demo.gif)
+
 ## Enlaces
 
-* Demo en vivo: https://allan-mg.github.io/web_project_library_es/
-* Repositorio: https://github.com/allan-mg/web_project_library_es
+- Demo en vivo: https://allan-mg.github.io/web_project_library_es/
+- Repositorio: https://github.com/allan-mg/web_project_library_es
